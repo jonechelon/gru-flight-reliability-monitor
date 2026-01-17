@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-01-17,08:50,N/A,0092,,Cancelado,17/01,08:50
+2026-01-17,08:50,,0092,,Cancelado,17/01,08:50
 2026-01-17,06:10,LATAM,RJ3340,,Cancelado,17/01,06:10
 2026-01-17,08:25,LATAM,RJ3947,,Cancelado,17/01,08:25
 2026-01-17,07:55,LATAM,RJ4653,,Cancelado,17/01,07:55
