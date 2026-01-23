@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-01-23,02:40,N/A,0160,,Atrasado,23/01,02:40
+2026-01-23,02:40,,0160,,Atrasado,23/01,02:40
 2026-01-23,22:55,LATAM,6051,,Cancelado,23/01,22:55
 2026-01-23,22:45,KLM,RJ4540,,Cancelado,23/01,22:45
 2026-01-23,02:40,LATAM,RJ7586,,Atrasado,23/01,02:40
