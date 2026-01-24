@@ -2,6 +2,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-01-24,23:00,,0962,,Cancelado,24/01,23:00
 2026-01-24,08:40,EMIRATES,1522,,Atrasado,24/01,08:40
 2026-01-24,08:30,,2858,,Atrasado,24/01,08:30
+2026-01-24,09:30,KLM,3611,,Atrasado,24/01,09:30
 2026-01-24,06:00,KLM,3683,,Atrasado,24/01,06:00
 2026-01-24,08:40,EMIRATES,4067,,Atrasado,24/01,08:40
 2026-01-24,06:00,,4070,,Atrasado,24/01,06:00
@@ -11,6 +12,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-01-24,06:00,,7586,,Atrasado,24/01,06:00
 2026-01-24,06:00,KLM,9298,,Atrasado,24/01,06:00
 2026-01-24,06:10,LATAM,RJ3340,,Atrasado,24/01,06:10
+2026-01-24,09:25,EMIRATES,RJ3698,,Atrasado,24/01,09:25
 2026-01-24,08:15,LATAM,RJ3947,,Atrasado,24/01,08:15
 2026-01-24,02:40,LATAM,RJ4070,,Atrasado,24/01,02:40
 2026-01-24,22:40,EMIRATES,RJ4656,,Atrasado,24/01,22:40
@@ -22,6 +24,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-01-24,08:15,LATAM,RJ7361,,Atrasado,24/01,08:15
 2026-01-24,06:00,KLM,RJ7586,,Atrasado,24/01,06:00
 2026-01-24,06:10,LATAM,RJ7702,,Atrasado,24/01,06:10
+2026-01-24,09:25,EMIRATES,RJ9700,,Atrasado,24/01,09:25
 2026-01-23,22:15,,0063,,Cancelado,23/01,22:15
 2026-01-23,02:40,,0160,,Atrasado,23/01,02:40
 2026-01-23,23:00,,0962,,Cancelado,23/01,23:00
