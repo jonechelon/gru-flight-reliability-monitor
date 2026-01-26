@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-01-26,12:15,N/A,0090,,Cancelado,26/01,12:15
+2026-01-26,12:15,,0090,,Cancelado,26/01,12:15
 2026-01-26,09:00,KLM,1412,,Atrasado,26/01,09:00
 2026-01-26,10:00,KLM,2695,,Cancelado,26/01,10:00
 2026-01-26,23:55,,3030,,Cancelado,26/01,23:55
@@ -9,7 +9,11 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-01-26,09:05,,4156,,Atrasado,26/01,09:05
 2026-01-26,10:00,KLM,4169,,Cancelado,26/01,10:00
 2026-01-26,10:00,KLM,4729,,Cancelado,26/01,10:00
+2026-01-26,12:25,LATAM,6265,,Cancelado,26/01,12:25
+2026-01-26,13:00,N/A,6501,,Atrasado,26/01,13:00
+2026-01-26,12:35,LATAM,6504,,Atrasado,26/01,12:35
 2026-01-26,23:20,LATAM,6728,,Atrasado,26/01,23:20
+2026-01-26,14:40,N/A,7335,,Atrasado,26/01,14:40
 2026-01-26,10:00,KLM,7651,,Cancelado,26/01,10:00
 2026-01-26,12:25,LATAM,8110,,Cancelado,26/01,12:25
 2026-01-26,10:00,KLM,9334,,Cancelado,26/01,10:00
@@ -22,6 +26,8 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-01-26,08:20,LATAM,RJ6199,,Atrasado,26/01,08:20
 2026-01-26,23:10,LATAM,RJ6719,,Atrasado,26/01,23:10
 2026-01-26,23:10,LATAM,RJ7250,,Atrasado,26/01,23:10
+2026-01-26,12:20,LATAM,RJ7335,,Atrasado,26/01,12:20
+2026-01-26,12:20,LATAM,RJ7347,,Atrasado,26/01,12:20
 2026-01-26,11:35,LATAM,RJ7392,,Cancelado,26/01,11:35
 2026-01-26,10:35,DELTA,RJ8558,,Cancelado,26/01,10:35
 2026-01-26,06:35,EMIRATES,RJ9173,,Cancelado,26/01,06:35
