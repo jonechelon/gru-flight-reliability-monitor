@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-01-29,11:05,N/A,0015,,Atrasado,29/01,11:05
+2026-01-29,11:05,,0015,,Atrasado,29/01,11:05
 2026-01-29,10:20,,3609,,Atrasado,29/01,10:20
 2026-01-29,07:30,DELTA,6293,,Atrasado,29/01,07:30
 2026-01-29,21:30,,6805,,Atrasado,29/01,21:30
