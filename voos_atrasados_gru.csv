@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-02-02,08:20,N/A,1300,,Cancelado,02/02,08:20
+2026-02-02,01:50,DELTA,RJ6238,,Cancelado,02/02,01:50
+2026-02-02,01:50,DELTA,RJ7586,,Cancelado,02/02,01:50
 2026-02-01,07:35,,0086,,Atrasado,01/02,07:35
 2026-02-01,17:25,,0184,,Atrasado,01/02,17:25
 2026-02-01,18:35,,0631,,Atrasado,01/02,18:35
