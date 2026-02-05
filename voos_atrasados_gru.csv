@@ -3,7 +3,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-02-05,15:15,,0268,,Cancelado,05/02,15:15
 2026-02-05,23:55,EMIRATES,2708,,Atrasado,05/02,23:55
 2026-02-05,20:45,,3368,,Atrasado,05/02,20:45
-2026-02-05,15:15,N/A,7969,,Cancelado,05/02,15:15
+2026-02-05,15:15,,7969,,Cancelado,05/02,15:15
 2026-02-05,07:25,LATAM,8438,,Cancelado,05/02,07:25
 2026-02-05,07:25,LATAM,8650,,Cancelado,05/02,07:25
 2026-02-05,09:55,,9179,,Atrasado,05/02,09:55
