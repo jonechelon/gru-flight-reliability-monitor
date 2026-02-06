@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-02-06,10:00,LATAM,3397,,Cancelado,06/02,10:00
+2026-02-06,05:00,EMIRATES,RJ4070,,Cancelado,06/02,05:00
+2026-02-06,05:00,EMIRATES,RJ4771,,Cancelado,06/02,05:00
 2026-02-05,02:40,,0160,,Atrasado,05/02,02:40
 2026-02-05,15:15,,0268,,Cancelado,05/02,15:15
 2026-02-05,23:55,EMIRATES,2708,,Atrasado,05/02,23:55
