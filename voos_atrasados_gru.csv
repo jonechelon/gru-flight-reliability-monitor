@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-02-09,20:15,N/A,2329,,Atrasado,09/02,20:15
+2026-02-09,20:15,,2329,,Atrasado,09/02,20:15
 2026-02-09,20:15,,4126,,Atrasado,09/02,20:15
 2026-02-09,10:15,KLM,5755,,Atrasado,09/02,10:15
 2026-02-09,20:15,,6690,,Atrasado,09/02,20:15
