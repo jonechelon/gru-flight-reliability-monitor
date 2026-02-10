@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-02-10,08:40,KLM,1658,,Atrasado,10/02,08:40
+2026-02-10,08:35,DELTA,RJ7763,,Atrasado,10/02,08:35
+2026-02-10,08:35,DELTA,RJ9080,,Atrasado,10/02,08:35
 2026-02-09,20:15,,2329,,Atrasado,09/02,20:15
 2026-02-09,20:15,,4126,,Atrasado,09/02,20:15
 2026-02-09,10:15,KLM,5755,,Atrasado,09/02,10:15
