@@ -1,324 +1,115 @@
-# MatchFly
+# GRU Flight Reliability Monitor
 
-## Visão Geral
+> Automated web scraper for delayed and cancelled flights at São Paulo Guarulhos International Airport (GRU).
 
-MatchFly é uma plataforma automatizada de agregação e análise de status de voos, desenvolvida com foco em escalabilidade, manutenibilidade e resolução de problemas via órgãos confiáveis como a ANAC. O sistema realiza web scraping de múltiplas fontes, processa status e gera páginas estáticas otimizadas para SEO.
+## Overview
 
-## Arquitetura
+This project monitors flight disruptions at GRU Airport through automated data collection. It generates a CSV file with real-time information about delayed and cancelled flights, which can be consumed by external applications for passenger rights awareness and compensation claims.
 
-### Estrutura do Projeto
+## Features
 
-```
-matchfly/
-├── .github/
-│   └── workflows/          # Pipelines CI/CD (GitHub Actions)
-├── src/
-│   ├── scrapers/           # Módulos de web scraping
-│   └── templates/          # Templates Jinja2 para geração de HTML
-├── data/                   # Armazenamento de dados processados (JSON)
-├── public/                 # Arquivos estáticos gerados
-├── requirements.txt        # Dependências Python
-└── README.md              # Documentação técnica
-```
+- 🔄 Automated scraping of GRU Airport flight data
+- 📊 CSV export with standardized flight disruption data
+- 🤖 GitHub Actions integration for scheduled updates
+- ☁️ Supabase integration for persistent data storage
+- 🔍 6-month data retention policy
 
-### Stack Tecnológico
+## How It Works
 
-- **Python 3.9+**: Linguagem principal
-- **BeautifulSoup4**: Parsing de HTML/XML para web scraping
-- **Requests**: Cliente HTTP para requisições web
-- **Jinja2**: Engine de templates para geração de HTML
-- **Python-Slugify**: Geração de URLs amigáveis (SEO)
+The scraper:
+1. Downloads the latest flight data from GRU Airport sources
+2. Processes and normalizes flight information (delays, cancellations, airlines)
+3. Merges with existing historical data stored in Supabase
+4. Generates `voos_atrasados_gru.csv` with filtered results
+5. Removes flight records older than 6 months
 
-## Funcionalidades Principais
+## Output Format
 
-### 1. Web Scraping Modular
-- Arquitetura baseada em scrapers independentes
-- Suporte para múltiplas fontes de dados
-- Rate limiting e retry logic integrados
-- Tratamento robusto de erros
+The generated CSV (`voos_atrasados_gru.csv`) contains:
 
-### 2. Processamento de Dados
-- Normalização e validação de dados esportivos
-- Armazenamento em JSON estruturado
-- Cache inteligente para otimização de performance
+| Column | Description |
+|--------|-------------|
+| `data_captura` | Capture/scraping date |
+| `flight_number` | Flight number (normalized) |
+| `scheduled_time` | Scheduled departure time |
+| `companhia` / `airline` | Airline name |
+| `status` | Flight status (delayed/cancelled) |
+| `destino` / `destination` | Destination airport |
+| `destination_city` | Destination city name |
+| `delay_hours` | Delay duration in hours |
 
-### 3. Geração de Páginas Estáticas
-- Templates Jinja2 responsivos
-- SEO-friendly URLs (usando slugify)
-- Otimização para performance web
-- Estrutura preparada para CDN
+## Usage
 
-### 4. CI/CD
-- Workflows automatizados via GitHub Actions
-- Testes automatizados
-- Deploy contínuo
-
-## Instalação
-
-### Pré-requisitos
-
-- Python 3.9 ou superior
-- pip (gerenciador de pacotes Python)
-- Git
-
-### Setup Local
+### Local Execution
 
 ```bash
-# Clone o repositório
-git clone <repository-url>
-cd matchfly
-
-# Crie e ative o ambiente virtual
-python3 -m venv venv
-source venv/bin/activate  # Linux/macOS
-# ou
-venv\Scripts\activate     # Windows
-
-# Instale as dependências
+# Install dependencies
 pip install -r requirements.txt
+
+# Set up environment variables (optional for Supabase)
+export SUPABASE_URL="your_supabase_url"
+export SUPABASE_KEY="your_supabase_key"
+
+# Run the scraper
+python voos_proximos_finalbuild.py
 ```
 
-## Uso
+### Automated Execution
 
-### Scrapers Disponíveis
+The project includes a GitHub Actions workflow (`.github/workflows/update-flights.yml`) that:
+- Runs automatically via scheduled cron jobs
+- Can be manually triggered from the Actions tab
+- Commits the updated CSV file to the repository
 
-#### 🛫 GRU Airport Flight Scraper
+### Data Access
 
-Scraper profissional para voos do Aeroporto de Guarulhos com descoberta automática de API.
-
-```bash
-# Executar scraper GRU
-python3 run_gru_scraper.py
-
-# Ou com exemplos interativos
-python3 examples/example_usage.py
+The CSV file is publicly accessible via GitHub Raw:
+```
+https://raw.githubusercontent.com/jonechelon/gru-flight-reliability-monitor/main/voos_atrasados_gru.csv
 ```
 
-**Características:**
-- ✅ Descoberta inteligente de API endpoints
-- ✅ Filtros: Cancelados ou Atrasados > 2h
-- ✅ Logging robusto (console + arquivo)
-- ✅ Tratamento completo de erros
-- ✅ Output: `data/flights-db.json`
+## Technical Stack
 
-**Uso Programático:**
+- **Python 3.12+** - Core scripting language
+- **Pandas** - Data processing and CSV manipulation
+- **Supabase** - Cloud database for persistent storage
+- **GitHub Actions** - CI/CD automation
 
-```python
-from src.scrapers import GRUFlightScraper
+## Data Sources
 
-# Criar scraper
-scraper = GRUFlightScraper(output_file="data/flights-db.json")
+Flight data is collected from publicly available GRU Airport information systems.
 
-# Executar
-scraper.run()
+## Related Projects
 
-# Ou usar métodos individuais
-flights = scraper.fetch_flights()
-filtered = scraper.filter_flights(flights)
-scraper.save_to_json(filtered)
-```
+This scraper provides data for [**MatchFly**](https://github.com/jonechelon/matchfly-pseo), a programmatic SEO project that generates static pages for flight disruption information and passenger compensation rights (ANAC 400 / EC 261).
 
-📖 [Documentação Completa do GRU Scraper](docs/GRU_SCRAPER_USAGE.md)
+## Requirements
 
-### Executando Scrapers (Exemplo Genérico)
+- Python 3.12 or higher
+- Active internet connection
+- Supabase account (optional, for data persistence)
 
-```python
-# Exemplo básico de uso
-from src.scrapers import match_scraper
+## Environment Variables
 
-# Executar scraping
-matches = match_scraper.fetch_matches()
-```
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `SUPABASE_URL` | Optional | Supabase project URL |
+| `SUPABASE_KEY` | Optional | Supabase service role key |
 
-### Gerando Páginas
+*If Supabase credentials are not provided, the scraper will work in local-only mode.*
 
-```python
-# Exemplo de geração de páginas
-from src.templates import renderer
+## Data Retention
 
-# Renderizar template
-renderer.generate_match_page(match_data)
-```
+Flight records are automatically purged after 6 months to comply with data minimization best practices. Historical data older than this threshold is removed from the in-memory dataset before processing.
 
-## Estrutura de Dados
+## License
 
-### Formato JSON (data/)
+This project is provided as-is for educational and informational purposes.
 
-```json
-{
-  "match_id": "unique-id",
-  "home_team": "Team A",
-  "away_team": "Team B",
-  "date": "2026-01-11T20:00:00Z",
-  "competition": "League Name",
-  "status": "scheduled|live|finished"
-}
-```
+## Contributing
 
-## Desenvolvimento
+This is a personal project. For questions or suggestions, please open an issue.
 
-### Boas Práticas
+***
 
-1. **Código Limpo**: Seguir PEP 8 (Python)
-2. **Type Hints**: Usar anotações de tipo
-3. **Docstrings**: Documentar funções e classes
-4. **Testes**: Cobertura mínima de 80%
-5. **Git Flow**: Feature branches + Pull Requests
-
-### Estrutura de Commit
-
-```
-<tipo>(<escopo>): <descrição curta>
-
-<descrição detalhada opcional>
-```
-
-Tipos: `feat`, `fix`, `docs`, `refactor`, `test`, `chore`
-
-### Criando um Novo Scraper
-
-```python
-# src/scrapers/new_source_scraper.py
-from typing import List, Dict
-import requests
-from bs4 import BeautifulSoup
-
-class NewSourceScraper:
-    """Scraper para [Nome da Fonte]."""
-    
-    BASE_URL = "https://example.com"
-    
-    def fetch_matches(self) -> List[Dict]:
-        """
-        Busca partidas da fonte.
-        
-        Returns:
-            Lista de dicionários com dados das partidas
-        """
-        response = requests.get(self.BASE_URL)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        # Implementar lógica de scraping
-        return matches
-```
-
-## CI/CD Pipeline
-
-### GitHub Actions Workflow
-
-```yaml
-# .github/workflows/main.yml
-name: CI/CD Pipeline
-
-on: [push, pull_request]
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Run tests
-        run: pytest
-```
-
-## Performance
-
-### Otimizações Implementadas
-
-- **Caching**: Redução de requisições redundantes
-- **Async I/O**: Para operações de rede (futuro)
-- **Lazy Loading**: Carregamento sob demanda
-- **Compression**: Gzip para arquivos estáticos
-
-## Segurança
-
-- Validação de input em todos os scrapers
-- Sanitização de dados antes do processamento
-- Rate limiting para evitar bloqueios
-- Sem armazenamento de credenciais em código
-
-## Funcionalidades Implementadas ✅
-
-### 🛫 GRU Airport Flight Scraper
-- ✅ Descoberta automática de API endpoints
-- ✅ Filtros: Cancelados ou Atrasados > 2h
-- ✅ Logging robusto (console + arquivo)
-- ✅ Tratamento completo de erros
-- ✅ Output estruturado em JSON
-
-### 🎨 Gerador de Páginas Estáticas
-- ✅ Template CRO-optimized (tier2-anac400)
-- ✅ Validação de affiliate link obrigatória
-- ✅ Cálculo automático de "hours_ago"
-- ✅ Slugs SEO-friendly
-- ✅ Schemas JSON-LD (BroadcastEvent + FAQ)
-- ✅ Checkboxes interativos com JavaScript
-- ✅ Tabela de direitos ANAC
-- ✅ Design mobile-first (Tailwind CSS)
-
-### 📊 Pipeline Completo
-- ✅ Script `run_pipeline.sh` (scraping → geração)
-- ✅ Exemplos práticos interativos
-- ✅ Documentação completa
-
-## Roadmap Futuro
-
-- [ ] Scrapers para outros aeroportos (CGH, BSB, SDU, GIG)
-- [ ] Sistema de notificações em tempo real
-- [ ] API REST para consumo de dados
-- [ ] Dashboard administrativo
-- [ ] Templates adicionais (Tier 1, Tier 3)
-- [ ] Suporte multi-idioma
-- [ ] Mobile app
-
-## Contribuindo
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/nova-funcionalidade`)
-3. Commit suas mudanças (`git commit -m 'feat: adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
-
-## Licença
-
-[Definir Licença - MIT, Apache 2.0, etc.]
-
-## Contato
-
-- **Projeto**: MatchFly
-- **Maintainer**: [Seu Nome/Equipe]
-- **Email**: [contato@matchfly.com]
-
-## Troubleshooting
-
-### Problemas Comuns
-
-**1. Erro de dependências**
-```bash
-pip install --upgrade pip
-pip install -r requirements.txt --force-reinstall
-```
-
-**2. Scraper retorna vazio**
-- Verificar se o site alvo mudou estrutura HTML
-- Confirmar conectividade de rede
-- Checar rate limiting
-
-**3. Erro de encoding**
-```python
-# Use UTF-8 explicitamente
-with open('file.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False)
-```
-
-## Status do Projeto
-
-**Versão Atual**: 0.1.0 (Desenvolvimento Inicial)
-
-**Status**: 🚧 Em Desenvolvimento Ativo
-
+**Note:** This scraper respects rate limits and implements proper error handling to ensure responsible data collection.

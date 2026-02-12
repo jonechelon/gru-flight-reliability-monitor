@@ -1163,37 +1163,6 @@ def main():
     print("=" * 70)
     print("✅ Scraping concluído com histórico persistente!")
     print("=" * 70)
-    
-    # Automação: Gera o site automaticamente após o scraping
-    print(f"\n" + "=" * 70)
-    print("🌐 GERANDO SITE AUTOMATICAMENTE")
-    print("=" * 70)
-    try:
-        import subprocess
-        gerar_site_path = os.path.join(os.path.dirname(__file__), "gerar_site.py")
-        if os.path.exists(gerar_site_path):
-            print(f"   📄 Executando: {gerar_site_path}")
-            result = subprocess.run(
-                [sys.executable, gerar_site_path],
-                capture_output=True,
-                text=True,
-                cwd=os.path.dirname(__file__)
-            )
-            if result.returncode == 0:
-                print(f"   ✅ Site gerado com sucesso!")
-                if result.stdout:
-                    print(f"   📋 Saída: {result.stdout[:200]}...")
-            else:
-                print(f"   ⚠️  Aviso: Geração do site retornou código {result.returncode}")
-                if result.stderr:
-                    print(f"   📋 Erro: {result.stderr[:200]}...")
-        else:
-            print(f"   ⚠️  Arquivo gerar_site.py não encontrado em: {gerar_site_path}")
-    except Exception as e:
-        print(f"   ⚠️  Erro ao gerar site automaticamente: {e}")
-        print(f"   💡 Execute manualmente: python gerar_site.py")
-    
-    print("=" * 70)
 
 
 if __name__ == "__main__":
