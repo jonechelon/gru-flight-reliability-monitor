@@ -3,23 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # Virtual Environment
 venv/
@@ -27,6 +13,8 @@ env/
 ENV/
 env.bak/
 venv.bak/
+.env
+.env.local
 
 # IDE
 .vscode/
@@ -36,25 +24,16 @@ venv.bak/
 *~
 .DS_Store
 
-# Logs
+# Logs (script usa logs_voos_atrasados/)
 *.log
 *.log.*
 logs/
 logs_voos_atrasados/
-logs_voos_proximos/
-logs_operational_metrics/
 
-# Environment variables
-.env
-.env.local
-
-# Playwright
+# Playwright 
 playwright-report/
 test-results/
-
-# Data files (manter apenas flights-db.json rastreado)
-data/*.log
-data/.azion_tokens.json
+downloads_playwright/
 
 # Temporary files
 *.tmp
