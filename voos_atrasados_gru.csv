@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-02-20,23:00,N/A,9468,,Cancelado,20/02,23:00
+2026-02-20,20:35,KLM,RJ3368,,Cancelado,20/02,20:35
+2026-02-20,20:35,KLM,RJ6603,,Cancelado,20/02,20:35
 2026-02-19,18:35,,0631,,Cancelado,19/02,18:35
 2026-02-19,00:50,,0634,,Cancelado,19/02,00:50
 2026-02-19,07:00,,1241,,Cancelado,19/02,07:00
@@ -34,7 +37,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-02-19,18:15,LATAM,8457,,Cancelado,19/02,18:15
 2026-02-19,18:45,,8897,,Atrasado,19/02,18:45
 2026-02-19,09:40,KLM,9342,,Cancelado,19/02,09:40
-2026-02-19,23:00,N/A,9468,,Cancelado,19/02,23:00
+2026-02-19,23:00,,9468,,Cancelado,19/02,23:00
 2026-02-19,18:00,,9837,,Cancelado,19/02,18:00
 2026-02-19,09:30,KLM,9844,,Cancelado,19/02,09:30
 2026-02-19,08:30,DELTA,RJ1922,,Cancelado,19/02,08:30
