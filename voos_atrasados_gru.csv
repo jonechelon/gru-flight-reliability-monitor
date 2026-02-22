@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-02-22,21:00,DELTA,0226,,Cancelado,22/02,21:00
-2026-02-22,22:35,N/A,0950,,Cancelado,22/02,22:35
+2026-02-22,22:35,,0950,,Cancelado,22/02,22:35
 2026-02-22,21:20,LATAM,5166,,Cancelado,22/02,21:20
 2026-02-22,21:00,DELTA,6349,,Cancelado,22/02,21:00
 2026-02-22,21:20,LATAM,6808,,Cancelado,22/02,21:20
