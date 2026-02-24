@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-02-24,02:30,N/A,1439,,Atrasado,24/02,02:30
+2026-02-24,01:20,EMIRATES,RJ2044,,Atrasado,24/02,01:20
+2026-02-24,01:20,EMIRATES,RJ9072,,Atrasado,24/02,01:20
 2026-02-23,12:15,,0090,,Atrasado,23/02,12:15
 2026-02-23,21:30,,0148,,Cancelado,23/02,21:30
 2026-02-23,21:00,DELTA,0226,,Cancelado,23/02,21:00
