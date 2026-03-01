@@ -1,7 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-03-01,16:25,,0246,,Atrasado,01/03,16:25
 2026-03-01,01:30,EMIRATES,0262,,Cancelado,01/03,01:30
-2026-03-01,18:40,N/A,0631,,Atrasado,01/03,18:40
+2026-03-01,18:40,,0631,,Atrasado,01/03,18:40
 2026-03-01,18:05,,0748,,Atrasado,01/03,18:05
 2026-03-01,01:10,,0774,,Cancelado,01/03,01:10
 2026-03-01,15:10,,1264,,Atrasado,01/03,15:10
