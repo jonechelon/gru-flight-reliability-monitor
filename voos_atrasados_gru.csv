@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-03-05,23:30,N/A,0930,,Cancelado,05/03,23:30
+2026-03-05,23:30,,0930,,Cancelado,05/03,23:30
 2026-03-05,23:30,LATAM,5121,,Atrasado,05/03,23:30
 2026-03-05,22:15,,7213,,Cancelado,05/03,22:15
 2026-03-05,23:25,LATAM,RJ2044,,Atrasado,05/03,23:25
