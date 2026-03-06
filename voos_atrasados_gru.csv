@@ -5,7 +5,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-03-06,12:25,LATAM,3265,,Cancelado,06/03,12:25
 2026-03-06,15:55,LATAM,3506,,Cancelado,06/03,15:55
 2026-03-06,15:55,LATAM,5220,,Cancelado,06/03,15:55
-2026-03-06,20:25,N/A,5294,,Cancelado,06/03,20:25
+2026-03-06,20:25,,5294,,Cancelado,06/03,20:25
 2026-03-06,17:55,,6190,,Atrasado,06/03,17:55
 2026-03-06,12:25,LATAM,8110,,Cancelado,06/03,12:25
 2026-03-06,12:25,LATAM,8486,,Cancelado,06/03,12:25
