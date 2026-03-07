@@ -1,5 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-03-07,07:35,,0086,,Atrasado,07/03,07:35
+2026-03-07,20:40,N/A,0679,,Cancelado,07/03,20:40
 2026-03-07,01:10,,0774,,Cancelado,07/03,01:10
 2026-03-07,01:10,,1558,,Cancelado,07/03,01:10
 2026-03-07,21:25,,1962,,Atrasado,07/03,21:25
@@ -8,8 +9,8 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-03-07,23:15,EMIRATES,RJ3352,,Cancelado,07/03,23:15
 2026-03-07,20:35,LATAM,RJ3368,,Atrasado,07/03,20:35
 2026-03-07,01:10,EMIRATES,RJ4070,,Cancelado,07/03,01:10
-2026-03-07,14:05,LATAM,RJ4548,,Cancelado,07/03,14:05
-2026-03-07,14:05,LATAM,RJ5178,,Cancelado,07/03,14:05
+2026-03-07,14:30,LATAM,RJ4548,,Cancelado,07/03,14:30
+2026-03-07,14:30,LATAM,RJ5178,,Cancelado,07/03,14:30
 2026-03-07,20:35,LATAM,RJ6513,,Atrasado,07/03,20:35
 2026-03-07,23:15,EMIRATES,RJ6719,,Cancelado,07/03,23:15
 2026-03-07,01:10,EMIRATES,RJ7586,,Cancelado,07/03,01:10
