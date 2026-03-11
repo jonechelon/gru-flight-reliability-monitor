@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-03-11,15:15,,0268,,Cancelado,11/03,15:15
-2026-03-11,19:15,N/A,0611,,Atrasado,11/03,19:15
+2026-03-11,19:15,,0611,,Atrasado,11/03,19:15
 2026-03-11,01:10,,0774,,Cancelado,11/03,01:10
 2026-03-11,16:15,LATAM,3268,,Atrasado,11/03,16:15
 2026-03-11,18:35,LATAM,5247,,Atrasado,11/03,18:35
