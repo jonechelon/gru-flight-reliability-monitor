@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-03-14,02:40,N/A,0160,,Atrasado,14/03,02:40
+2026-03-14,02:40,,0160,,Atrasado,14/03,02:40
 2026-03-14,00:00,,6001,,Atrasado,14/03,00:00
 2026-03-14,02:40,LATAM,RJ2044,,Atrasado,14/03,02:40
 2026-03-14,00:00,KLM,RJ4182,,Atrasado,14/03,00:00
