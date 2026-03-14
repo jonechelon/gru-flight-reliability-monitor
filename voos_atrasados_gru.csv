@@ -3,7 +3,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-03-14,02:40,,0160,,Atrasado,14/03,02:40
 2026-03-14,08:40,KLM,1658,,Atrasado,14/03,08:40
 2026-03-14,13:55,EMIRATES,1885,,Atrasado,14/03,13:55
-2026-03-14,16:40,N/A,5177,,Atrasado,14/03,16:40
+2026-03-14,16:40,,5177,,Atrasado,14/03,16:40
 2026-03-14,00:00,,6001,,Atrasado,14/03,00:00
 2026-03-14,16:40,,7338,,Atrasado,14/03,16:40
 2026-03-14,10:00,EMIRATES,9314,,Atrasado,14/03,10:00
