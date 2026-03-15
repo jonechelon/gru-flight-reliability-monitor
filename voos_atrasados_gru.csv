@@ -1,5 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-03-15,00:15,,0906,,Atrasado,15/03,00:15
+2026-03-15,18:30,N/A,2940,,Atrasado,15/03,18:30
 2026-03-15,16:25,LATAM,3257,,Atrasado,15/03,16:25
 2026-03-15,16:25,LATAM,5196,,Atrasado,15/03,16:25
 2026-03-15,04:10,,6061,,Atrasado,15/03,04:10
@@ -7,6 +8,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-03-15,05:00,,7091,,Atrasado,15/03,05:00
 2026-03-15,16:25,LATAM,8096,,Atrasado,15/03,16:25
 2026-03-15,13:35,LATAM,RJ1070,,Atrasado,15/03,13:35
+2026-03-15,18:15,LATAM,RJ1924,,Atrasado,15/03,18:15
 2026-03-15,00:05,KLM,RJ2044,,Atrasado,15/03,00:05
 2026-03-15,13:10,LATAM,RJ3366,,Atrasado,15/03,13:10
 2026-03-15,20:35,LATAM,RJ3368,,Atrasado,15/03,20:35
@@ -18,6 +20,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-03-15,20:35,LATAM,RJ7269,,Atrasado,15/03,20:35
 2026-03-15,13:35,LATAM,RJ7657,,Atrasado,15/03,13:35
 2026-03-15,07:10,LATAM,RJ7702,,Atrasado,15/03,07:10
+2026-03-15,18:15,LATAM,RJ7741,,Atrasado,15/03,18:15
 2026-03-15,11:45,LATAM,RJ8558,,Atrasado,15/03,11:45
 2026-03-15,07:10,LATAM,RJ8643,,Atrasado,15/03,07:10
 2026-03-15,05:00,KLM,RJ9072,,Atrasado,15/03,05:00
