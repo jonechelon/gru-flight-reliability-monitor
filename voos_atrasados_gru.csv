@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-03-20,17:25,N/A,0184,,Atrasado,20/03,17:25
+2026-03-20,17:25,,0184,,Atrasado,20/03,17:25
 2026-03-20,14:00,,1506,,Atrasado,20/03,14:00
 2026-03-20,14:00,,2642,,Atrasado,20/03,14:00
 2026-03-20,16:20,LATAM,5126,,Atrasado,20/03,16:20
