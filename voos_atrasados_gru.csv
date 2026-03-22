@@ -1,8 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-03-22,02:40,,0160,,Atrasado,22/03,02:40
 2026-03-22,13:40,EMIRATES,2361,,Atrasado,22/03,13:40
-2026-03-22,14:10,N/A,7373,,Atrasado,22/03,14:10
-2026-03-22,18:35,N/A,8173,,Atrasado,22/03,18:35
+2026-03-22,14:10,,7373,,Atrasado,22/03,14:10
+2026-03-22,18:35,,8173,,Atrasado,22/03,18:35
 2026-03-22,12:45,,8780,,Atrasado,22/03,12:45
 2026-03-22,14:05,LATAM,RJ1070,,Atrasado,22/03,14:05
 2026-03-22,02:40,LATAM,RJ2044,,Atrasado,22/03,02:40
