@@ -1,6 +1,9 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-03-23,08:35,N/A,0605,,Cancelado,23/03,08:35
 2026-03-23,21:45,KLM,3665,,Atrasado,23/03,21:45
 2026-03-23,21:35,KLM,RJ1925,,Atrasado,23/03,21:35
+2026-03-23,02:40,LATAM,RJ4070,,Cancelado,23/03,02:40
+2026-03-23,02:40,LATAM,RJ7586,,Cancelado,23/03,02:40
 2026-03-23,21:35,KLM,RJ8417,,Atrasado,23/03,21:35
 2026-03-22,19:20,,0093,,Atrasado,22/03,19:20
 2026-03-22,02:40,,0160,,Atrasado,22/03,02:40
