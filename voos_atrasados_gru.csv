@@ -1,6 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-03-27,23:30,,0930,,Cancelado,27/03,23:30
 2026-03-27,08:20,,1252,,Atrasado,27/03,08:20
+2026-03-27,10:00,N/A,2860,,Atrasado,27/03,10:00
 2026-03-27,07:45,LATAM,3020,,Cancelado,27/03,07:45
 2026-03-27,07:00,LATAM,3416,,Cancelado,27/03,07:00
 2026-03-27,08:20,,4384,,Atrasado,27/03,08:20
@@ -16,6 +17,8 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-03-27,23:25,LATAM,RJ4070,,Cancelado,27/03,23:25
 2026-03-27,06:40,EMIRATES,RJ4193,,Atrasado,27/03,06:40
 2026-03-27,05:45,EMIRATES,RJ4771,,Atrasado,27/03,05:45
+2026-03-27,10:00,LATAM,RJ6321,,Atrasado,27/03,10:00
+2026-03-27,10:00,LATAM,RJ6647,,Atrasado,27/03,10:00
 2026-03-27,07:40,LATAM,RJ6751,,Atrasado,27/03,07:40
 2026-03-27,07:40,LATAM,RJ7350,,Atrasado,27/03,07:40
 2026-03-27,03:55,LATAM,RJ7586,,Cancelado,27/03,03:55
