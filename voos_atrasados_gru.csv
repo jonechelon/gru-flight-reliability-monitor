@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-04-03,00:05,,1644,,Atrasado,03/04,00:05
-2026-04-03,02:00,N/A,9217,,Atrasado,03/04,02:00
+2026-04-03,02:00,,9217,,Atrasado,03/04,02:00
 2026-04-03,02:00,DELTA,RJ9249,,Atrasado,03/04,02:00
 2026-04-02,17:10,,1238,,Atrasado,02/04,17:10
 2026-04-02,18:30,LATAM,3346,,Atrasado,02/04,18:30
