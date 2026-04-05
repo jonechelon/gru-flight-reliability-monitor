@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-04-05,02:20,N/A,0160,,Atrasado,05/04,02:20
+2026-04-05,02:20,,0160,,Atrasado,05/04,02:20
 2026-04-05,00:00,,1941,,Cancelado,05/04,00:00
 2026-04-05,02:00,DELTA,RJ3550,,Atrasado,05/04,02:00
 2026-04-05,02:00,DELTA,RJ5232,,Atrasado,05/04,02:00
