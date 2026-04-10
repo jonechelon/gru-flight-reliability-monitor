@@ -8,7 +8,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-04-10,14:35,LATAM,5109,,Atrasado,10/04,14:35
 2026-04-10,00:20,LATAM,6158,,Cancelado,10/04,00:20
 2026-04-10,07:25,LATAM,6213,,Cancelado,10/04,07:25
-2026-04-10,21:00,N/A,7215,,Atrasado,10/04,21:00
+2026-04-10,21:00,,7215,,Atrasado,10/04,21:00
 2026-04-10,00:10,LATAM,7279,,Cancelado,10/04,00:10
 2026-04-10,23:40,LATAM,8055,,Cancelado,10/04,23:40
 2026-04-10,14:50,LATAM,8176,,Atrasado,10/04,14:50
