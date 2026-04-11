@@ -1,7 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-04-11,20:40,LATAM,3452,,Atrasado,11/04,20:40
 2026-04-11,20:50,EMIRATES,4332,,Atrasado,11/04,20:50
-2026-04-11,21:00,N/A,7215,,Cancelado,11/04,21:00
+2026-04-11,21:00,,7215,,Cancelado,11/04,21:00
 2026-04-11,20:35,DELTA,RJ1380,,Atrasado,11/04,20:35
 2026-04-10,21:00,,0148,,Atrasado,10/04,21:00
 2026-04-10,09:00,,1456,,Cancelado,10/04,09:00
