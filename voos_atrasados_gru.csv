@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-04-13,09:05,N/A,1128,,Atrasado,13/04,09:05
+2026-04-13,08:25,LATAM,SUL6272,,Atrasado,13/04,08:25
+2026-04-13,08:25,LATAM,SUL8130,,Atrasado,13/04,08:25
 2026-04-12,17:50,DELTA,0753,,Cancelado,12/04,17:50
 2026-04-12,17:50,DELTA,3910,,Cancelado,12/04,17:50
 2026-04-12,17:50,DELTA,6294,,Cancelado,12/04,17:50
