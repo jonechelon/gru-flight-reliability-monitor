@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-04-22,09:40,N/A,0015,,Atrasado,22/04,09:40
+2026-04-22,09:40,,0015,,Atrasado,22/04,09:40
 2026-04-22,03:50,,6087,,Atrasado,22/04,03:50
 2026-04-22,03:50,EMIRATES,RJ4193,,Atrasado,22/04,03:50
 2026-04-22,07:15,DELTA,RJ5538,,Atrasado,22/04,07:15
