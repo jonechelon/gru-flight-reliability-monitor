@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-04-23,08:30,,4769,,Atrasado,23/04,08:30
-2026-04-23,12:45,N/A,8473,,Cancelado,23/04,12:45
+2026-04-23,12:45,,8473,,Cancelado,23/04,12:45
 2026-04-23,07:50,LATAM,RJ4307,,Atrasado,23/04,07:50
 2026-04-23,07:50,LATAM,RJ6183,,Atrasado,23/04,07:50
 2026-04-23,11:30,LATAM,RJ6321,,Cancelado,23/04,11:30
