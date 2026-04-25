@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-04-25,09:40,N/A,0015,,Atrasado,25/04,09:40
-2026-04-25,08:30,N/A,4769,,Atrasado,25/04,08:30
+2026-04-25,09:40,,0015,,Atrasado,25/04,09:40
+2026-04-25,08:30,,4769,,Atrasado,25/04,08:30
 2026-04-25,04:50,,5563,,Atrasado,25/04,04:50
 2026-04-25,05:50,LATAM,RJ2890,,Atrasado,25/04,05:50
 2026-04-25,06:40,LATAM,RJ3340,,Atrasado,25/04,06:40
