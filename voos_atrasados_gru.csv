@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-04-27,16:25,N/A,0216,,Cancelado,27/04,16:25
+2026-04-27,16:25,,0216,,Cancelado,27/04,16:25
 2026-04-27,13:50,,7675,,Atrasado,27/04,13:50
 2026-04-27,15:15,LATAM,RJ4311,,Cancelado,27/04,15:15
 2026-04-27,13:50,LATAM,RJ4548,,Atrasado,27/04,13:50
