@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-04-29,17:05,N/A,4390,,Atrasado,29/04,17:05
+2026-04-29,17:05,,4390,,Atrasado,29/04,17:05
 2026-04-29,07:55,LATAM,8649,,Atrasado,29/04,07:55
 2026-04-29,07:55,LATAM,RJ4653,,Atrasado,29/04,07:55
 2026-04-29,16:45,LATAM,RJ4846,,Atrasado,29/04,16:45
