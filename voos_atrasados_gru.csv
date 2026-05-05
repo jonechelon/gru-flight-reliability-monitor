@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-05-05,19:20,N/A,0272,,Atrasado,05/05,19:20
+2026-05-05,19:20,,0272,,Atrasado,05/05,19:20
 2026-05-05,22:45,KLM,1672,,Atrasado,05/05,22:45
 2026-05-05,08:15,,2744,,Atrasado,05/05,08:15
 2026-05-05,12:45,LATAM,8502,,Atrasado,05/05,12:45
@@ -12,6 +12,8 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-05-05,07:35,LATAM,RJ5232,,Atrasado,05/05,07:35
 2026-05-05,14:25,LATAM,RJ6158,,Atrasado,05/05,14:25
 2026-05-05,17:20,LATAM,RJ6190,,Atrasado,05/05,17:20
+2026-05-05,18:45,LATAM,RJ7509,,Atrasado,05/05,18:45
+2026-05-05,18:45,LATAM,RJ7657,,Atrasado,05/05,18:45
 2026-05-05,07:35,LATAM,RJ8652,,Atrasado,05/05,07:35
 2026-05-05,12:45,LATAM,RJ9064,,Atrasado,05/05,12:45
 2026-05-05,21:55,KLM,RJ9255,,Atrasado,05/05,21:55
