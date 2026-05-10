@@ -1,5 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-05-09,21:25,N/A,0930,,Cancelado,09/05,21:25
+2026-05-10,21:25,N/A,0930,,Cancelado,10/05,21:25
+2026-05-10,20:45,EMIRATES,RJ3368,,Cancelado,10/05,20:45
+2026-05-10,20:45,EMIRATES,RJ7269,,Cancelado,10/05,20:45
+2026-05-09,21:25,,0930,,Cancelado,09/05,21:25
 2026-05-09,18:40,LATAM,RJ1378,,Cancelado,09/05,18:40
 2026-05-09,16:10,LATAM,RJ3874,,Cancelado,09/05,16:10
 2026-05-09,18:40,LATAM,RJ4126,,Cancelado,09/05,18:40
