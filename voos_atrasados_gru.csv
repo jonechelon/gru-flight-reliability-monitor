@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-05-15,21:00,N/A,0097,,Cancelado,15/05,21:00
+2026-05-15,20:45,LATAM,RJ3368,,Cancelado,15/05,20:45
+2026-05-15,20:45,LATAM,RJ6603,,Cancelado,15/05,20:45
 2026-05-14,13:55,,1236,,Atrasado,14/05,13:55
 2026-05-14,22:35,EMIRATES,2623,,Atrasado,14/05,22:35
 2026-05-14,20:30,DELTA,7286,,Atrasado,14/05,20:30
