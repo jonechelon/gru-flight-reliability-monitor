@@ -1,7 +1,10 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-05-23,15:15,LATAM,3939,,Atrasado,23/05,15:15
 2026-05-23,08:45,,4130,,Atrasado,23/05,08:45
 2026-05-23,08:20,LATAM,RJ2699,,Atrasado,23/05,08:20
+2026-05-23,15:10,LATAM,RJ4548,,Atrasado,23/05,15:10
 2026-05-23,08:20,LATAM,RJ7427,,Atrasado,23/05,08:20
+2026-05-23,15:10,LATAM,RJ8069,,Atrasado,23/05,15:10
 2026-05-22,21:30,,0860,,Atrasado,22/05,21:30
 2026-05-22,19:25,,1251,,Atrasado,22/05,19:25
 2026-05-22,21:30,,7255,,Atrasado,22/05,21:30
