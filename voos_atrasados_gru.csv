@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-06-02,21:00,N/A,0097,,Cancelado,02/06,21:00
-2026-06-02,20:50,N/A,6218,,Atrasado,02/06,20:50
+2026-06-02,21:00,,0097,,Cancelado,02/06,21:00
+2026-06-02,20:50,,6218,,Atrasado,02/06,20:50
 2026-06-02,20:50,EMIRATES,RJ1380,,Atrasado,02/06,20:50
 2026-06-02,20:50,EMIRATES,RJ5750,,Atrasado,02/06,20:50
 2026-06-01,21:00,,0097,,Cancelado,01/06,21:00
