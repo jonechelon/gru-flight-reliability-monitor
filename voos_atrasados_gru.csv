@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-06-03,22:20,LATAM,8033,,Atrasado,03/06,22:20
+2026-06-03,22:20,EMIRATES,RJ3945,,Atrasado,03/06,22:20
+2026-06-03,22:20,EMIRATES,RJ8092,,Atrasado,03/06,22:20
 2026-06-02,21:00,,0097,,Cancelado,02/06,21:00
 2026-06-02,18:50,,4107,,Atrasado,02/06,18:50
 2026-06-02,21:45,KLM,5500,,Atrasado,02/06,21:45
