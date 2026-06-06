@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-06-06,14:00,N/A,0268,,Atrasado,06/06,14:00
+2026-06-06,14:00,,0268,,Atrasado,06/06,14:00
 2026-06-06,14:00,,5890,,Atrasado,06/06,14:00
 2026-06-06,13:25,KLM,5900,,Atrasado,06/06,13:25
 2026-06-06,13:50,KLM,RJ3874,,Atrasado,06/06,13:50
