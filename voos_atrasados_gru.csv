@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-06-10,21:05,EMIRATES,7222,,Atrasado,10/06,21:05
+2026-06-10,20:30,DELTA,RJ4656,,Atrasado,10/06,20:30
+2026-06-10,20:30,DELTA,RJ7269,,Atrasado,10/06,20:30
 2026-06-09,08:25,LATAM,6289,,Atrasado,09/06,08:25
 2026-06-09,08:05,LATAM,RJ4796,,Atrasado,09/06,08:05
 2026-06-09,08:05,LATAM,RJ9094,,Atrasado,09/06,08:05
