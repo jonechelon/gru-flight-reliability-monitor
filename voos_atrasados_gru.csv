@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-06-11,16:15,N/A,8565,,Atrasado,11/06,16:15
+2026-06-11,16:15,,8565,,Atrasado,11/06,16:15
 2026-06-11,16:10,LATAM,RJ3874,,Atrasado,11/06,16:10
 2026-06-11,16:10,LATAM,RJ8151,,Atrasado,11/06,16:10
 2026-06-10,21:05,EMIRATES,7222,,Atrasado,10/06,21:05
