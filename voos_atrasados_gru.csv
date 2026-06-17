@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-06-17,09:40,N/A,0015,,Atrasado,17/06,09:40
+2026-06-17,01:55,DELTA,RJ1244,,Atrasado,17/06,01:55
+2026-06-17,01:55,DELTA,RJ6523,,Atrasado,17/06,01:55
 2026-06-16,07:50,LATAM,6257,,Cancelado,16/06,07:50
 2026-06-16,07:05,LATAM,6277,,Cancelado,16/06,07:05
 2026-06-16,07:35,LATAM,8104,,Cancelado,16/06,07:35
