@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-06-24,13:50,N/A,4231,,Cancelado,24/06,13:50
+2026-06-24,13:50,,4231,,Cancelado,24/06,13:50
 2026-06-24,22:00,KLM,6234,,Atrasado,24/06,22:00
 2026-06-24,22:00,KLM,RJ1380,,Atrasado,24/06,22:00
 2026-06-24,13:30,EMIRATES,RJ4548,,Cancelado,24/06,13:30
