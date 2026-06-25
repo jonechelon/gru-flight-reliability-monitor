@@ -1,6 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-06-25,22:50,EMIRATES,1934,,Atrasado,25/06,22:50
 2026-06-25,17:50,LATAM,3376,,Atrasado,25/06,17:50
+2026-06-25,23:30,LATAM,4722,,Cancelado,25/06,23:30
+2026-06-25,23:50,LATAM,6139,,Cancelado,25/06,23:50
 2026-06-25,08:00,LATAM,6202,,Cancelado,25/06,08:00
 2026-06-25,08:00,LATAM,6533,,Cancelado,25/06,08:00
 2026-06-25,17:00,,7230,,Cancelado,25/06,17:00
@@ -11,6 +13,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-06-25,22:25,KLM,RJ3352,,Atrasado,25/06,22:25
 2026-06-25,16:10,LATAM,RJ3874,,Cancelado,25/06,16:10
 2026-06-25,06:35,LATAM,RJ4193,,Atrasado,25/06,06:35
+2026-06-25,19:35,KLM,RJ4672,,Cancelado,25/06,19:35
 2026-06-25,17:50,LATAM,RJ6297,,Atrasado,25/06,17:50
 2026-06-25,12:05,LATAM,RJ6321,,Cancelado,25/06,12:05
 2026-06-25,03:15,DELTA,RJ7191,,Cancelado,25/06,03:15
@@ -20,6 +23,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-06-25,14:05,LATAM,RJ8483,,Cancelado,25/06,14:05
 2026-06-25,12:05,LATAM,RJ8558,,Cancelado,25/06,12:05
 2026-06-25,06:35,LATAM,RJ8652,,Atrasado,25/06,06:35
+2026-06-25,19:35,KLM,RJ9187,,Cancelado,25/06,19:35
 2026-06-25,17:50,LATAM,RJ9254,,Atrasado,25/06,17:50
 2026-06-24,13:50,,4231,,Cancelado,24/06,13:50
 2026-06-24,22:00,KLM,6234,,Atrasado,24/06,22:00
