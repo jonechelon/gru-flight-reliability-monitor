@@ -5,7 +5,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-06-25,08:00,LATAM,8153,,Cancelado,25/06,08:00
 2026-06-25,08:00,LATAM,8432,,Cancelado,25/06,08:00
 2026-06-25,07:25,LATAM,9041,,Atrasado,25/06,07:25
-2026-06-25,08:15,N/A,9183,,Cancelado,25/06,08:15
+2026-06-25,08:15,,9183,,Cancelado,25/06,08:15
 2026-06-25,22:25,KLM,RJ3352,,Atrasado,25/06,22:25
 2026-06-25,06:35,LATAM,RJ4193,,Atrasado,25/06,06:35
 2026-06-25,03:15,DELTA,RJ7191,,Cancelado,25/06,03:15
