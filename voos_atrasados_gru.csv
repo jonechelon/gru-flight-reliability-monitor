@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-06-26,14:40,KLM,0453,,Atrasado,26/06,14:40
-2026-06-26,18:35,N/A,0739,,Cancelado,26/06,18:35
+2026-06-26,18:35,,0739,,Cancelado,26/06,18:35
 2026-06-26,13:30,EMIRATES,4118,,Cancelado,26/06,13:30
 2026-06-26,14:40,KLM,6012,,Atrasado,26/06,14:40
 2026-06-26,14:45,,6520,,Cancelado,26/06,14:45
