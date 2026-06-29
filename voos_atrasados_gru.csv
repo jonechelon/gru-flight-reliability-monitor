@@ -1,4 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-06-29,23:30,LATAM,4674,,Cancelado,29/06,23:30
+2026-06-29,23:50,LATAM,8377,,Cancelado,29/06,23:50
+2026-06-29,22:30,LATAM,RJ3945,,Cancelado,29/06,22:30
+2026-06-29,22:30,LATAM,RJ6719,,Cancelado,29/06,22:30
 2026-06-28,22:45,,0771,,Atrasado,28/06,22:45
 2026-06-28,14:35,,1236,,Atrasado,28/06,14:35
 2026-06-28,13:50,,2645,,Atrasado,28/06,13:50
