@@ -2,7 +2,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-06-30,13:30,,2959,,Atrasado,30/06,13:30
 2026-06-30,18:15,,4156,,Atrasado,30/06,18:15
 2026-06-30,21:45,KLM,4190,,Atrasado,30/06,21:45
-2026-06-30,22:20,N/A,7257,,Cancelado,30/06,22:20
+2026-06-30,22:20,,7257,,Cancelado,30/06,22:20
 2026-06-30,22:10,LATAM,7297,,Atrasado,30/06,22:10
 2026-06-30,16:40,KLM,9960,,Atrasado,30/06,16:40
 2026-06-30,22:00,LATAM,RJ2347,,Atrasado,30/06,22:00
