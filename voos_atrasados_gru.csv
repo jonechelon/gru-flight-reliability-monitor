@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-03,19:00,N/A,0611,,Atrasado,03/07,19:00
+2026-07-03,19:00,,0611,,Atrasado,03/07,19:00
 2026-07-03,13:55,,1484,,Cancelado,03/07,13:55
 2026-07-03,08:55,KLM,2675,,Atrasado,03/07,08:55
 2026-07-03,13:45,,4118,,Atrasado,03/07,13:45
