@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-04,14:30,N/A,2820,,Atrasado,04/07,14:30
+2026-07-04,14:30,,2820,,Atrasado,04/07,14:30
 2026-07-04,14:10,LATAM,RJ7281,,Atrasado,04/07,14:10
 2026-07-04,14:10,LATAM,RJ8136,,Atrasado,04/07,14:10
 2026-07-03,19:00,,0611,,Atrasado,03/07,19:00
