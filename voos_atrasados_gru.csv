@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-07-07,20:30,DELTA,0226,,Cancelado,07/07,20:30
+2026-07-07,15:00,LATAM,RJ7344,,Cancelado,07/07,15:00
+2026-07-07,15:00,LATAM,RJ8136,,Cancelado,07/07,15:00
 2026-07-06,14:40,KLM,0453,,Atrasado,06/07,14:40
 2026-07-06,12:30,LATAM,3822,,Cancelado,06/07,12:30
 2026-07-06,21:45,KLM,5500,,Atrasado,06/07,21:45
