@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-07-08,07:10,DELTA,0715,,Cancelado,08/07,07:10
+2026-07-08,03:15,DELTA,RJ2890,,Cancelado,08/07,03:15
+2026-07-08,03:15,DELTA,RJ7232,,Cancelado,08/07,03:15
 2026-07-07,20:30,DELTA,0226,,Cancelado,07/07,20:30
 2026-07-07,20:30,DELTA,6349,,Cancelado,07/07,20:30
 2026-07-07,20:30,DELTA,7286,,Cancelado,07/07,20:30
