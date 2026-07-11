@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-11,18:40,N/A,3912,,Atrasado,11/07,18:40
+2026-07-11,18:40,,3912,,Atrasado,11/07,18:40
 2026-07-11,17:00,LATAM,5247,,Atrasado,11/07,17:00
 2026-07-11,18:00,,7644,,Atrasado,11/07,18:00
 2026-07-11,18:00,,7709,,Atrasado,11/07,18:00
