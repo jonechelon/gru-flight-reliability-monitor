@@ -1,7 +1,11 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-07-11,18:00,,7644,,Atrasado,11/07,18:00
+2026-07-11,18:00,N/A,7709,,Atrasado,11/07,18:00
 2026-07-11,13:30,,7730,,Atrasado,11/07,13:30
+2026-07-11,16:15,N/A,8007,,Atrasado,11/07,16:15
 2026-07-11,13:00,KLM,RJ2677,,Atrasado,11/07,13:00
+2026-07-11,15:10,LATAM,RJ3874,,Atrasado,11/07,15:10
+2026-07-11,15:10,LATAM,RJ8136,,Atrasado,11/07,15:10
 2026-07-11,13:00,KLM,RJ9253,,Atrasado,11/07,13:00
 2026-07-10,20:30,DELTA,0226,,Cancelado,10/07,20:30
 2026-07-10,21:25,,0930,,Cancelado,10/07,21:25
