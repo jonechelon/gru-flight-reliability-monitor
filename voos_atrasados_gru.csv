@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-13,21:25,N/A,0930,,Cancelado,13/07,21:25
+2026-07-13,21:25,,0930,,Cancelado,13/07,21:25
 2026-07-13,20:45,LATAM,RJ3368,,Cancelado,13/07,20:45
 2026-07-13,20:45,LATAM,RJ7269,,Cancelado,13/07,20:45
 2026-07-12,21:25,,0930,,Cancelado,12/07,21:25
