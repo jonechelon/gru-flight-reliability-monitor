@@ -2,7 +2,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-07-15,21:25,,0930,,Cancelado,15/07,21:25
 2026-07-15,13:55,,3598,,Cancelado,15/07,13:55
 2026-07-15,21:35,,6805,,Atrasado,15/07,21:35
-2026-07-15,13:55,N/A,7663,,Cancelado,15/07,13:55
+2026-07-15,13:55,,7663,,Cancelado,15/07,13:55
 2026-07-15,13:30,,9232,,Atrasado,15/07,13:30
 2026-07-15,13:55,,9810,,Cancelado,15/07,13:55
 2026-07-15,13:55,LATAM,RJ2902,,Cancelado,15/07,13:55
