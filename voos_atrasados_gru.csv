@@ -1,6 +1,9 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-07-19,20:30,DELTA,0226,,Cancelado,19/07,20:30
-2026-07-19,15:10,LATAM,RJ3874,,Cancelado,19/07,15:10
+2026-07-19,21:30,N/A,0860,,Atrasado,19/07,21:30
+2026-07-19,20:30,DELTA,7286,,Cancelado,19/07,20:30
+2026-07-19,16:25,LATAM,RJ2902,,Atrasado,19/07,16:25
+2026-07-19,16:25,LATAM,RJ3874,,Atrasado,19/07,16:25
 2026-07-19,15:10,LATAM,RJ4350,,Cancelado,19/07,15:10
 2026-07-18,07:45,,0092,,Atrasado,18/07,07:45
 2026-07-18,21:25,,0930,,Cancelado,18/07,21:25
