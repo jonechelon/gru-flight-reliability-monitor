@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-27,02:00,N/A,0841,,Atrasado,27/07,02:00
+2026-07-27,02:00,,0841,,Atrasado,27/07,02:00
 2026-07-27,02:00,DELTA,RJ5333,,Atrasado,27/07,02:00
 2026-07-27,02:00,DELTA,RJ6523,,Atrasado,27/07,02:00
 2026-07-26,20:30,DELTA,0226,,Atrasado,26/07,20:30
