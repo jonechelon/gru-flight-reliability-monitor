@@ -1,7 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-07-27,02:00,,0841,,Atrasado,27/07,02:00
 2026-07-27,17:20,,1247,,Cancelado,27/07,17:20
-2026-07-27,17:20,N/A,3007,,Cancelado,27/07,17:20
+2026-07-27,17:20,,3007,,Cancelado,27/07,17:20
 2026-07-27,17:10,LATAM,RJ3874,,Cancelado,27/07,17:10
 2026-07-27,15:30,LATAM,RJ4350,,Cancelado,27/07,15:30
 2026-07-27,17:10,LATAM,RJ5115,,Cancelado,27/07,17:10
