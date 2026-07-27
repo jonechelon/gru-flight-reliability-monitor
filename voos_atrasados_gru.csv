@@ -1,7 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-07-26,20:30,DELTA,0226,,Atrasado,26/07,20:30
-2026-07-26,20:15,N/A,0603,,Cancelado,26/07,20:15
-2026-07-26,20:15,N/A,1315,,Cancelado,26/07,20:15
+2026-07-26,20:15,,0603,,Cancelado,26/07,20:15
+2026-07-26,20:15,,1315,,Cancelado,26/07,20:15
 2026-07-26,20:30,DELTA,4308,,Atrasado,26/07,20:30
 2026-07-26,20:15,,5315,,Cancelado,26/07,20:15
 2026-07-26,20:30,DELTA,6349,,Atrasado,26/07,20:30
