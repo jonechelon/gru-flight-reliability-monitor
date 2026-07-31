@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-31,13:45,N/A,4116,,Atrasado,31/07,13:45
-2026-07-31,14:00,N/A,5890,,Cancelado,31/07,14:00
+2026-07-31,13:45,,4116,,Atrasado,31/07,13:45
+2026-07-31,14:00,,5890,,Cancelado,31/07,14:00
 2026-07-31,13:30,LATAM,RJ5351,,Atrasado,31/07,13:30
 2026-07-31,13:30,LATAM,RJ7197,,Atrasado,31/07,13:30
 2026-07-31,13:30,LATAM,RJ7344,,Atrasado,31/07,13:30
