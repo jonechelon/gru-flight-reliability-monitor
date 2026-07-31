@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-07-30,21:00,N/A,0097,,Atrasado,30/07,21:00
+2026-07-30,21:00,,0097,,Atrasado,30/07,21:00
 2026-07-30,14:10,,2764,,Atrasado,30/07,14:10
 2026-07-30,16:50,,3909,,Cancelado,30/07,16:50
 2026-07-30,16:35,,9668,,Cancelado,30/07,16:35
