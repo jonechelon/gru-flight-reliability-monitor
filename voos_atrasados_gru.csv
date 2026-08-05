@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-08-04,20:25,N/A,0773,,Atrasado,04/08,20:25
+2026-08-04,20:25,,0773,,Atrasado,04/08,20:25
 2026-08-04,17:50,DELTA,RJ1378,,Atrasado,04/08,17:50
 2026-08-04,20:15,LATAM,RJ3368,,Atrasado,04/08,20:15
 2026-08-04,19:10,DELTA,RJ4672,,Atrasado,04/08,19:10
