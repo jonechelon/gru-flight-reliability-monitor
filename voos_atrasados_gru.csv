@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-08-05,09:10,EMIRATES,4186,,Atrasado,05/08,09:10
-2026-08-05,09:05,N/A,8163,,Atrasado,05/08,09:05
+2026-08-05,09:05,,8163,,Atrasado,05/08,09:05
 2026-08-05,08:50,KLM,RJ4796,,Atrasado,05/08,08:50
 2026-08-05,08:50,KLM,RJ7763,,Atrasado,05/08,08:50
 2026-08-04,20:25,,0773,,Atrasado,04/08,20:25
