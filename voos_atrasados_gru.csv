@@ -1,5 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-08-09,15:30,,0246,,Cancelado,09/08,15:30
+2026-08-09,13:55,N/A,1578,,Atrasado,09/08,13:55
+2026-08-09,14:10,N/A,2764,,Atrasado,09/08,14:10
 2026-08-09,13:55,LATAM,3420,,Cancelado,09/08,13:55
 2026-08-09,15:30,,3605,,Cancelado,09/08,15:30
 2026-08-09,13:55,LATAM,5224,,Cancelado,09/08,13:55
@@ -8,8 +10,10 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-08-09,09:35,LATAM,RJ3698,,Cancelado,09/08,09:35
 2026-08-09,10:45,LATAM,RJ3974,,Cancelado,09/08,10:45
 2026-08-09,12:10,LATAM,RJ5225,,Cancelado,09/08,12:10
+2026-08-09,13:30,LATAM,RJ7259,,Atrasado,09/08,13:30
 2026-08-09,12:45,LATAM,RJ7741,,Atrasado,09/08,12:45
 2026-08-09,09:35,LATAM,RJ8168,,Cancelado,09/08,09:35
+2026-08-09,13:30,LATAM,RJ8473,,Atrasado,09/08,13:30
 2026-08-09,12:10,LATAM,RJ8558,,Cancelado,09/08,12:10
 2026-08-09,12:45,LATAM,RJ9070,,Atrasado,09/08,12:45
 2026-08-08,07:45,,0773,,Atrasado,08/08,07:45
