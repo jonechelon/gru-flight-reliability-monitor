@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-08-11,21:35,N/A,0091,,Atrasado,11/08,21:35
+2026-08-11,21:35,,0091,,Atrasado,11/08,21:35
 2026-08-11,21:10,EMIRATES,RJ1380,,Atrasado,11/08,21:10
 2026-08-11,21:10,EMIRATES,RJ2347,,Atrasado,11/08,21:10
 2026-08-10,21:35,,0091,,Atrasado,10/08,21:35
