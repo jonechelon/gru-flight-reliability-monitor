@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-08-14,09:40,,0015,,Atrasado,14/08,09:40
-2026-08-14,19:20,N/A,0775,,Atrasado,14/08,19:20
+2026-08-14,19:20,,0775,,Atrasado,14/08,19:20
 2026-08-14,15:25,LATAM,3222,,Atrasado,14/08,15:25
 2026-08-14,12:25,LATAM,3314,,Cancelado,14/08,12:25
 2026-08-14,15:25,,3577,,Atrasado,14/08,15:25
