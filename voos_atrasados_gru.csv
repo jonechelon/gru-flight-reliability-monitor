@@ -1,6 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-08-19,09:40,N/A,0015,,Atrasado,19/08,09:40
+2026-08-19,07:50,LATAM,8456,,Atrasado,19/08,07:50
 2026-08-19,06:35,LATAM,RJ3342,,Atrasado,19/08,06:35
+2026-08-19,07:35,LATAM,RJ3550,,Atrasado,19/08,07:35
 2026-08-19,04:55,KLM,RJ3947,,Atrasado,19/08,04:55
 2026-08-19,06:35,LATAM,RJ4653,,Atrasado,19/08,06:35
 2026-08-19,06:00,KLM,RJ5333,,Atrasado,19/08,06:00
