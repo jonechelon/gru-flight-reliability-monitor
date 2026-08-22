@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-08-22,13:50,N/A,1236,,Atrasado,22/08,13:50
+2026-08-22,13:50,,1236,,Atrasado,22/08,13:50
 2026-08-22,08:35,KLM,4662,,Atrasado,22/08,08:35
 2026-08-22,12:20,LATAM,6604,,Atrasado,22/08,12:20
 2026-08-22,08:30,LATAM,RJ3340,,Atrasado,22/08,08:30
