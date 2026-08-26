@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-08-25,21:00,N/A,0148,,Cancelado,25/08,21:00
+2026-08-25,21:00,,0148,,Cancelado,25/08,21:00
 2026-08-25,07:10,DELTA,0715,,Cancelado,25/08,07:10
 2026-08-25,07:10,DELTA,3910,,Cancelado,25/08,07:10
 2026-08-25,07:10,DELTA,6301,,Cancelado,25/08,07:10
