@@ -1,6 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-09-02,09:40,N/A,0015,,Atrasado,02/09,09:40
-2026-09-02,11:35,N/A,0090,,Atrasado,02/09,11:35
+2026-09-02,09:40,,0015,,Atrasado,02/09,09:40
+2026-09-02,11:35,,0090,,Atrasado,02/09,11:35
+2026-09-02,15:30,N/A,0246,,Cancelado,02/09,15:30
 2026-09-02,22:05,KLM,1558,,Atrasado,02/09,22:05
 2026-09-02,09:45,LATAM,3263,,Cancelado,02/09,09:45
 2026-09-02,22:25,EMIRATES,3657,,Atrasado,02/09,22:25
@@ -9,7 +10,9 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-09-02,22:00,LATAM,8130,,Atrasado,02/09,22:00
 2026-09-02,21:55,KLM,RJ1380,,Atrasado,02/09,21:55
 2026-09-02,08:10,LATAM,RJ1939,,Atrasado,02/09,08:10
+2026-09-02,12:05,LATAM,RJ5225,,Cancelado,02/09,12:05
 2026-09-02,21:55,KLM,RJ6082,,Atrasado,02/09,21:55
+2026-09-02,12:05,LATAM,RJ7392,,Cancelado,02/09,12:05
 2026-09-02,08:10,LATAM,RJ8175,,Atrasado,02/09,08:10
 2026-09-01,09:40,,0015,,Atrasado,01/09,09:40
 2026-09-01,08:40,KLM,1128,,Cancelado,01/09,08:40
