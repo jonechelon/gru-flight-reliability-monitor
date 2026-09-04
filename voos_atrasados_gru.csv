@@ -3,7 +3,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-09-03,11:35,,0090,,Atrasado,03/09,11:35
 2026-09-03,14:00,,0737,,Cancelado,03/09,14:00
 2026-09-03,10:55,,0771,,Atrasado,03/09,10:55
-2026-09-03,21:30,N/A,0860,,Cancelado,03/09,21:30
+2026-09-03,21:30,,0860,,Cancelado,03/09,21:30
 2026-09-03,19:15,,1382,,Atrasado,03/09,19:15
 2026-09-03,22:20,KLM,3630,,Atrasado,03/09,22:20
 2026-09-03,08:10,EMIRATES,4196,,Atrasado,03/09,08:10
