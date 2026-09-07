@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-09-06,21:25,N/A,0930,,Cancelado,06/09,21:25
+2026-09-06,21:25,,0930,,Cancelado,06/09,21:25
 2026-09-06,14:30,,6496,,Atrasado,06/09,14:30
 2026-09-06,14:30,LATAM,8566,,Atrasado,06/09,14:30
 2026-09-06,18:20,LATAM,RJ2329,,Cancelado,06/09,18:20
