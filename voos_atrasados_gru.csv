@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-09-14,23:45,N/A,4908,,Cancelado,14/09,23:45
+2026-09-14,23:45,,4908,,Cancelado,14/09,23:45
 2026-09-14,21:40,DELTA,RJ8417,,Cancelado,14/09,21:40
 2026-09-14,21:40,DELTA,RJ9255,,Cancelado,14/09,21:40
 2026-09-13,13:30,,2318,,Cancelado,13/09,13:30
