@@ -1,4 +1,7 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-09-15,12:40,LATAM,6270,,Cancelado,15/09,12:40
+2026-09-15,12:05,LATAM,RJ5225,,Cancelado,15/09,12:05
+2026-09-15,12:05,LATAM,RJ7712,,Cancelado,15/09,12:05
 2026-09-14,23:45,,4908,,Cancelado,14/09,23:45
 2026-09-14,21:40,DELTA,RJ8417,,Cancelado,14/09,21:40
 2026-09-14,21:40,DELTA,RJ9255,,Cancelado,14/09,21:40
