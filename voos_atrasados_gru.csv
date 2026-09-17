@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-09-17,06:50,N/A,1241,,Atrasado,17/09,06:50
+2026-09-17,06:50,,1241,,Atrasado,17/09,06:50
 2026-09-17,21:00,LATAM,5223,,Atrasado,17/09,21:00
 2026-09-17,20:55,LATAM,RJ3258,,Atrasado,17/09,20:55
 2026-09-17,06:45,LATAM,RJ3342,,Atrasado,17/09,06:45
