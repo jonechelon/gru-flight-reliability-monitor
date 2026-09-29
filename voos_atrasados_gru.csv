@@ -1,6 +1,9 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-09-29,19:35,KLM,0459,,Atrasado,29/09,19:35
 2026-09-29,23:25,LATAM,5121,,Atrasado,29/09,23:25
+2026-09-29,17:25,LATAM,RJ3874,,Atrasado,29/09,17:25
 2026-09-29,23:20,LATAM,RJ7350,,Atrasado,29/09,23:20
+2026-09-29,17:25,LATAM,RJ8351,,Atrasado,29/09,17:25
 2026-09-29,23:20,LATAM,RJ8652,,Atrasado,29/09,23:20
 2026-09-28,22:00,,0962,,Cancelado,28/09,22:00
 2026-09-28,17:00,,1492,,Atrasado,28/09,17:00
