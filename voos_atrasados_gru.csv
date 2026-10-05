@@ -1,4 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-10-05,22:45,EMIRATES,2350,,Atrasado,05/10,22:45
+2026-10-05,22:45,LATAM,8060,,Atrasado,05/10,22:45
+2026-10-05,22:40,LATAM,8122,,Atrasado,05/10,22:40
+2026-10-05,22:40,LATAM,RJ6719,,Atrasado,05/10,22:40
 2026-10-04,17:15,,7230,,Atrasado,04/10,17:15
 2026-10-04,22:20,,7257,,Atrasado,04/10,22:20
 2026-10-04,17:15,,7519,,Atrasado,04/10,17:15
