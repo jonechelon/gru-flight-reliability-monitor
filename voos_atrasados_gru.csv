@@ -1,4 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-10-06,15:50,LATAM,6114,,Atrasado,06/10,15:50
+2026-10-06,19:35,KLM,6189,,Atrasado,06/10,19:35
+2026-10-06,15:45,LATAM,RJ4834,,Atrasado,06/10,15:45
+2026-10-06,15:45,LATAM,RJ6190,,Atrasado,06/10,15:45
 2026-10-05,22:45,EMIRATES,2350,,Atrasado,05/10,22:45
 2026-10-05,19:35,KLM,5002,,Atrasado,05/10,19:35
 2026-10-05,22:45,LATAM,8060,,Atrasado,05/10,22:45
