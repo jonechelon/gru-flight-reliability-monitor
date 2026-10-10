@@ -2,7 +2,7 @@ Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_P
 2026-10-10,09:40,,0015,,Atrasado,10/10,09:40
 2026-10-10,02:00,,0841,,Cancelado,10/10,02:00
 2026-10-10,08:00,LATAM,3214,,Atrasado,10/10,08:00
-2026-10-10,19:25,N/A,5567,,Atrasado,10/10,19:25
+2026-10-10,19:25,,5567,,Atrasado,10/10,19:25
 2026-10-10,07:50,LATAM,RJ4796,,Atrasado,10/10,07:50
 2026-10-10,01:55,DELTA,RJ6080,,Atrasado,10/10,01:55
 2026-10-10,07:50,LATAM,RJ7763,,Atrasado,10/10,07:50
