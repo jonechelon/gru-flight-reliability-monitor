@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-10-13,08:20,N/A,4736,,Cancelado,13/10,08:20
+2026-10-13,08:20,,4736,,Cancelado,13/10,08:20
 2026-10-13,05:05,EMIRATES,RJ5538,,Cancelado,13/10,05:05
 2026-10-13,05:05,EMIRATES,RJ6751,,Cancelado,13/10,05:05
 2026-10-12,23:20,,3945,,Atrasado,12/10,23:20
