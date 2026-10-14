@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-10-14,13:25,N/A,4553,,Atrasado,14/10,13:25
+2026-10-14,13:25,,4553,,Atrasado,14/10,13:25
 2026-10-14,21:15,LATAM,6808,,Atrasado,14/10,21:15
 2026-10-14,21:05,EMIRATES,RJ3258,,Atrasado,14/10,21:05
 2026-10-14,12:05,LATAM,RJ6515,,Atrasado,14/10,12:05
