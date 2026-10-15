@@ -1,5 +1,5 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
-2026-10-15,21:40,N/A,4738,,Atrasado,15/10,21:40
+2026-10-15,21:40,,4738,,Atrasado,15/10,21:40
 2026-10-15,21:40,DELTA,6130,,Atrasado,15/10,21:40
 2026-10-15,23:35,LATAM,7282,,Cancelado,15/10,23:35
 2026-10-15,23:50,LATAM,8105,,Cancelado,15/10,23:50
