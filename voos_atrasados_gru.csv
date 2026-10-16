@@ -1,4 +1,8 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
+2026-10-16,23:15,LATAM,5281,,Cancelado,16/10,23:15
+2026-10-16,21:30,LATAM,8122,,Atrasado,16/10,21:30
+2026-10-16,21:20,LATAM,RJ1380,,Atrasado,16/10,21:20
+2026-10-16,21:20,LATAM,RJ5750,,Atrasado,16/10,21:20
 2026-10-15,23:15,LATAM,3198,,Cancelado,15/10,23:15
 2026-10-15,19:30,LATAM,3422,,Cancelado,15/10,19:30
 2026-10-15,21:40,,4738,,Atrasado,15/10,21:40
