@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-10-19,04:00,LATAM,3334,,Atrasado,19/10,04:00
-2026-10-19,14:20,N/A,4004,,Atrasado,19/10,14:20
+2026-10-19,14:20,,4004,,Atrasado,19/10,14:20
 2026-10-19,23:55,EMIRATES,6507,,Atrasado,19/10,23:55
 2026-10-19,09:50,,9514,,Cancelado,19/10,09:50
 2026-10-19,06:55,LATAM,RJ3342,,Cancelado,19/10,06:55
