@@ -1,6 +1,6 @@
 Data_Captura,Horario,Companhia,Numero_Voo,Operado_Por,Status,Data_Partida,Hora_Partida
 2026-10-20,23:00,,2347,,Atrasado,20/10,23:00
-2026-10-20,19:25,N/A,5567,,Cancelado,20/10,19:25
+2026-10-20,19:25,,5567,,Cancelado,20/10,19:25
 2026-10-20,21:15,LATAM,RJ1380,,Atrasado,20/10,21:15
 2026-10-20,22:00,KLM,RJ2347,,Atrasado,20/10,22:00
 2026-10-20,19:20,KLM,RJ4672,,Cancelado,20/10,19:20
